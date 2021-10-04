@@ -1,0 +1,4 @@
+Chord Length = 390 mm
+Span  = 551 mm
+Planform area = 0.1074 m2
+MR point distance = 0.21 m
