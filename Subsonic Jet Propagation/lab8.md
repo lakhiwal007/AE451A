@@ -49,7 +49,7 @@ Free turbulence: High-Reynolds-number shear flow in an open ambient  fluid, unco
 Figure1. shows the details of the initial formation of a jet, assuming a still ambient  fluid. The figure is valid only for similar jet and ambient  fluids, e.g., air-into-air, not water-into-air. Velocity profiles are shown as thick dark lines across the flow. Typically the jet issues as a nearly  at, fully developed turbulent velocity $U_{exit}$. Mixing layers format the lip of the exit, growing between the still ambient and the nearly inviscid potential core flowing at velocity $U_{exit}$.
 
 <div style = "text-align:center;">
-    <img src="Subsonic Jet Propagation/jet.png" alt="subsonic jet" style="zoom:100%;" />
+    <img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\jet.png" alt="subsonic jet" style="zoom:100%;" />
     <figcaption style="font-style:italic;">Figure 1. Initial formation of jet</figcaption>
 </div>
 
@@ -82,7 +82,7 @@ The region where the centre line velocity is equal to the nozzle outlet velocity
 
 ## 5. Experimental Setup
 
-![setup](Subsonic Jet Propagation/expSetup.png)
+![setup](C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\expSetup.png)
 
 ​										*Figure 2. Schematic diagram of open jet facility*
 
@@ -136,13 +136,13 @@ $$
 
 > **Velocity profile for centerline**
 
-<img src="Subsonic Jet Propagation/xbyD vs ubyU0.png" alt="graph" style="zoom:100%;border:1px solid;" />
+<img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\xbyD vs ubyU0.png" alt="graph" style="zoom:100%;border:1px solid;" />
 
 ​									*Graph 1. centerline velocity profile*
 
 > **Velocity profile at different transverse locations**
 
-<img src="Subsonic Jet Propagation/ybyD vs ubuu0.png" alt="graph" style="zoom:100%;border:1px solid;" />
+<img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\ybyD vs ubuu0.png" alt="graph" style="zoom:100%;border:1px solid;" />
 
 ​									*Graph 2. radial direction velocity profile*
 
@@ -167,8 +167,3 @@ $$
 3. What is jet width? How is it calculated from the velocity profile?
 
    **Ans.** Jet width at a particular x is defined as twice the distance measured from the centreline to the point on y-axis where the local velocity is half that of centre line velocity at that x. 
-
-## 10. References
-
-1. [https://ntrs.nasa.gov/api/citations/19720016717/downloads/19720016717.pdf](https://ntrs.nasa.gov/api/citations/19720016717/downloads/19720016717.pdf)
-2. [Jupyter Notebook  of Lab 8 Data analysis]()
