@@ -1,0 +1,2 @@
+The data is taken at 2mm interval. First column has pressure in the stagnation chamber and the second column has pressure sensed by the pitot probe.
+The data is with respect to the atmospheric pressure. Pressure unit is cm of Hg. Plots should be in dimensionless units.
