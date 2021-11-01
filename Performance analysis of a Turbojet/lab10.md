@@ -2,8 +2,6 @@
 
 
 
-
-
 <h1 align ="center">AE451A</h1>
 
 <h2 align = "center">Experiments in Aerospace Engineering - III</h2>
@@ -15,8 +13,6 @@
 <h2 align = "center">Experiment No. 10</h2>
 
 <h1 align = "center">PERFORMANCE ANALYSIS OF A TURBOJET ENGINE</h1>
-
-
 
 
 
@@ -38,7 +34,7 @@ The objective is to understand the operation and evaluate the performance of a t
 
 ## 2. Introduction and theory
 
-![turbojet](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jawUXqcPENzBcaerTxomYAHaD7%26pid%3DApi&f=1)
+<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\Screenshot_1.png" alt="turbojet" style="zoom:50%;" />
 
 <img src="http://cdn.arstechnica.net/wp-content/uploads/2015/02/2000px-Jet_engine.svg_.png" style="zoom:35%;" />
 
@@ -48,9 +44,17 @@ The speed, temperatures, static pressures and mass flow rates of the air and fue
 
 ## 3. Equipment's
 
-- turbojet engine
-- therrmocouples
-- manometers
+<div style = "columns:2;">
+    <ul>
+        <li>turbojet engine</li>
+        <li>thermocouples</li>
+        <li>ressure sensor</li>
+        <li>spark plug</li>
+        <li>load cell</li>
+        <li>fuel</li>
+        <li>control panel</li>
+    </ul>
+</div>
 
 ## 4. Checklist Before Starting
 
@@ -88,7 +92,7 @@ $$
 
 
 
-​									Where, 	$𝜌_{𝑎𝑖𝑟}=1.2\space 𝑘𝑔/𝑚3$  and  $𝜌_{𝑓𝑢𝑒𝑙}=840\space 𝑘𝑔/𝑚3$
+​						Where, 	$𝜌_{𝑎𝑖𝑟}=1.2\space 𝑘𝑔/𝑚3$  and  $𝜌_{𝑓𝑢𝑒𝑙}=840\space 𝑘𝑔/𝑚3$
 
 2. <u>**Temprature **</u>
    $$
@@ -108,9 +112,9 @@ $$
 
 > **Ambient Conditions:**
 
-Pressure ($P_{01}$) = measured from barometer in lab or assume 101.325 kPa
+Pressure ($P_{01}$) = measured from barometer in lab or assume **101.325 kPa**
 
-Temperature ($T_{01}$) (K) = measured from thermometer in lab = 287 K
+Temperature ($T_{01}$) (K) = measured from thermometer in lab = **287 K**
 
 > **Compressor Pressure Ratio (P02/P01):**
 
@@ -131,7 +135,7 @@ pressure.
 > **Compressor Efficiency ($\eta_c$):**
 
 $$
-\eta_c = \frac{(\frac{P_{02}}{P_{01}}-1)^{(\frac{\gamma -1 }{\gamma})}-1}{\frac{T_{02}}{T_{01}}-1}
+\eta_c = \frac{(\frac{P_{02}}{P_{01}})^{(\frac{\gamma -1 }{\gamma})}-1}{\frac{T_{02}}{T_{01}}-1}
 $$
 
 > **Global Equivalence ratio ($\phi_g$):**
@@ -156,7 +160,13 @@ $$
 𝑇𝑆𝐹𝐶 =\space \frac{𝐹𝑢𝑒𝑙\space 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 (\frac{𝑘𝑔}{𝑠})}{𝑇ℎ𝑟𝑢𝑠𝑡 (𝑁𝑒𝑤𝑡𝑜𝑛𝑠)}
 $$
 
+> **Mach Number**
 
+$$
+exit\space velocity (U_e)  = \frac{Thrust}{\dot{m_a} + \dot{m_f}}\\
+speed\space of\space sound (a) = \sqrt{\gamma_{hot}*R*T_{04}}\\
+M = U_e/a
+$$
 
 ## 7. Data analysis
 
@@ -188,3 +198,4 @@ $$
 
 ## 10. References
 
+- [Jupyter Notebook of data analysis](https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/lab10.ipynb)
