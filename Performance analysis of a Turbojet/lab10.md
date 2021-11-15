@@ -34,7 +34,7 @@ The objective is to understand the operation and evaluate the performance of a t
 
 ## 2. Introduction and theory
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\Screenshot_1.png" alt="turbojet" style="zoom:50%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/Screenshot_1.png" alt="turbojet" style="zoom:50%;" />
 
 <img src="http://cdn.arstechnica.net/wp-content/uploads/2015/02/2000px-Jet_engine.svg_.png" style="zoom:35%;" />
 
@@ -108,7 +108,7 @@ $$
    
    
    
-   <img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\schematic turbojet.png" style="zoom:60%;" />
+   <img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/schematic%20turbojet.png" style="zoom:60%;" />
 
 > **Ambient Conditions:**
 
@@ -172,21 +172,21 @@ $$
 
 > **Data Table (Converted Units )**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\cnvrtd unit table.png" alt="table" style="zoom:90%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/cnvrtd%20unit%20table.png" alt="table" style="zoom:90%;" />
 
 > **Parameters Table**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\res_df.png" alt="results table" style="zoom:90%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/res_df.png" alt="results table" style="zoom:90%;" />
 
 ## 8. Results and discussion
 
 > **Parameters Plots**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\parameters_plots.png" alt="parametrs plots" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/parameters_plots.png" alt="parametrs plots" style="zoom:100%;border:1px solid;" />
 
 > **Temprature trends with RPM**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of a Turbojet\temp_trends.png" alt="Temprature trends with RPM" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20a%20Turbojet/temp_trends.png" alt="Temprature trends with RPM" style="zoom:100%;border:1px solid;" />
 
 ## 9.Precautions
 
