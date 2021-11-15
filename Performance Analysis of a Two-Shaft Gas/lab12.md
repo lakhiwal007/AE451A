@@ -30,7 +30,7 @@ The objective is to understand the operation and evaluate the performance of a p
 
 ## 2. Introduction and theory
 
-<img src="C:\Users\lakhi\AppData\Roaming\Typora\typora-user-images\image-20211112120441893.png" alt="control panel" style="zoom:50%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/controlPanel.png" alt="control panel" style="zoom:50%;" />
 
 ​													*Figure 1. . Two shaft gas turbine engine set-up.*
 
