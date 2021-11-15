@@ -189,11 +189,11 @@ $$
 
 > **Straight diffuser**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of curved and straight diffuser\staightDiffuser.png" alt="straight diffuser" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20curved%20and%20straight%20diffuser/staightDiffuser.png" alt="straight diffuser" style="zoom:100%;border:1px solid;" />
 
 > **Curved diffuser**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance analysis of curved and straight diffuser\curvedDiffuser.png" alt="straight diffuser" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20analysis%20of%20curved%20and%20straight%20diffuser/curvedDiffuser.png" alt="straight diffuser" style="zoom:100%;border:1px solid;" />
 
 ## 9. References
 
