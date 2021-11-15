@@ -70,7 +70,7 @@ Index \space of \space refrection\space = \space \frac{Speed\space of\space ligh
 $$
 Many transparent non-crystallize material that are optically isotropic when free of stress becomes optically an isotropic (temporary double refrective) when they are subjected to stress. The birefringent (changing refractive index upon loading) material characterstic is used in the method of photoelasticty.
 
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\photo.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/photo.PNG)
 
 ​																			*Image 1.*
 
@@ -115,14 +115,14 @@ and \space \frac{\lambda}{c} = f_{\sigma}\space...\space fringe\space constant\\
 to\space get \space \sigma_1-\sigma_2 = \frac{nf_{\sigma}}{h}
 $$
 
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\2.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/2.PNG)
 
 ​																				*Image 2.*
 
 Consider a core when plane stresed model is inserted into the field of plane polariscope. Let the principal stress direction makes an angle  polarization axis.
 Plane polarizer resolves an incident light wave into Components which vibrate parallel and perpendicular to the axis of the polerizer. The parallel component is transmitted and the component perpendiculor to the polarizer axis is absorbed Initial phase of the wave is not important here, therefore the plane polasized light beem emerging from the polarizer can be represented as Ep = k cos wt
 
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\3.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/3.PNG)
 
 ​																				*Image 3.*
 
@@ -143,7 +143,7 @@ $$
 E = E^{'}_{2}-E^{'}_{1} = E_2cos\alpha - E_1sin\alpha\\
 or\space E = Ksin2\alpha\space sin(\frac{\Delta_2-\Delta_1}{2})\space sin(\omega t-\frac{\Delta_2+\Delta_1}{2} )
 $$
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\4.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/4.PNG)
 
 ​																				*Image 4.*
 
@@ -206,7 +206,7 @@ $$
 produces the extinction of green the complementary color red appears in the isochromatic fringe pattern. At higher levels of principal stress difference several wave length can be extinguished Simultaneously, therefore the fringes become pole and very difficult to analyze.
 By using circulor poleriscope isoclinic fringes con be removed leaving behind only isochromatic fringes.
 
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\5.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/5.PNG)
 
 ​																				*Image 5.*
 $$
@@ -223,7 +223,7 @@ $$
 \sigma_{yy} = \sigma_2 = -\frac{2P}{\pi h D}(\frac{4D^4}{D^2+4X^2}-1)\\ \\
 \tau_{xy} = 0
 $$
-![](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\6.PNG)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/6.PNG)
 
 ​																				*Image 6.*
 $$
@@ -242,7 +242,7 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
 1. <u>Monochromatic light</u>
 
-   <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\monochromatic light.jpg" alt="Monochromatic light" style="zoom:50%;" />
+   <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/monochromatic%20light.jpg" alt="Monochromatic light" style="zoom:50%;" />
 
    ​													*Image 7. monochromatic light source*
 
@@ -250,11 +250,11 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
    <div style = "text-align:center;display:inline-flex;justify-content:center;align-items:center">
        <figure>
-       	<img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\beam-expander-2x10x.webp" alt="beam expander" style="zoom:15%;" />
+       	<img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/beam-expander-2x10x.webp" alt="beam expander" style="zoom:15%;" />
            <figcaption style="font-style:italic;font-size:15px;">Image 8. Beam Expander</figcaption>
        </figure>
        <figure>
-           <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\colimator.jpg" alt="collimator" style="zoom:15%; height:1120px" />
+           <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/colimator.jpg" alt="collimator" style="zoom:15%; height:1120px" />
            <figcaption style="font-style:italic;font-size:15px;">Image 9. collimator</figcaption>
        </figure>
    </div>
@@ -265,7 +265,7 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
    A polarizer is an element that converts randomly polarized light into plane-polarized light.
 
-   <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\polarizers.jpg" alt="polarizers" style="zoom:25%;" />
+   <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/polarizers.jpg" alt="polarizers" style="zoom:25%;" />
 
    ​																*image 10. Polarizers*
 
@@ -277,7 +277,7 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
    A quarter-wave plate (Fig. 12) is a permanent wave plate that induces a phase shift δ equal to λ / 4, where λ is the wavelength of the light being used.
 
-   <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\quarter order wavw plates.jpg" alt="qwp" style="zoom:20%;" />
+   <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/quarter%20order%20wavw%20plates.jpg" alt="qwp" style="zoom:20%;" />
 
    ​															*image 11. quarter wave plates*
 
@@ -289,11 +289,11 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
    <div style = "text-align:center;display:inline-flex;justify-content:center;align-items:center">
    	<figure>    
-           <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\Canon_DSLR_Camera.jpg" alt="camera" style="zoom:20%;" />
+           <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/Canon_DSLR_Camera.jpg" alt="camera" style="zoom:20%;" />
            <figcaption>image 12. DSLR camera</figcaption>
        </figure>
        <figure>
-           <img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\whitesheets.jpg" alt="whitesheets" style="zoom:50%;" />
+           <img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/whitesheets.jpg" alt="whitesheets" style="zoom:50%;" />
        	<figcaption>image 13. white sheets</figcaption>
        </figure>
    </div>
@@ -306,7 +306,7 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
 * **<u>Epoxy Beam</u>**
 
-![epoxyBeam](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\epoxybeamedited.png)
+![epoxyBeam](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/epoxybeamedited.png)
 
 ​													*Image 14. Dog-Bone shape Epoxy Specimen*
 
@@ -316,11 +316,11 @@ fringe order at the center of the disk can be plotted with p to get fsigma.
 
 * **<u>4 Point Beam Bending Setup</u>**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\4pointbendingsetup.jpg" alt="4 point bending setup" style="zoom:50%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/4pointbendingsetup.jpg" alt="4 point bending setup" style="zoom:50%;" />
 
 
 
-<img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\Psetup.PNG" alt="Rod"  />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/Psetup.PNG" alt="Rod"  />
 
 ​															*Image 15 and 16.  4 Point Bending Setup*
 
@@ -366,7 +366,7 @@ $$
 
 The figure shown below is a schematic representation of the Photo Elasticity Experiment.
 
-![experimental setup](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\expSetup.PNG)
+![experimental setup](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/expSetup.PNG)
 
 ​															*Image 17. Experimental Setup*
 
@@ -376,7 +376,7 @@ the inner two forces) with a value of
 $$
 M = \frac{Fd}{2}
 $$
-![loads on epoxy beam](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\4PointBeam.PNG)
+![loads on epoxy beam](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/4PointBeam.PNG)
 
 ​														*Image 18. Force distribution on the Beam*
 
@@ -392,7 +392,7 @@ predicted stresses at the various photo elastic fringe locations.
 
 ## 7. Calculation 
 
-![model](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\model.PNG)
+![model](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/model.PNG)
 
 ​												*Image 12. Free body Diagram of Beam*
 
@@ -469,7 +469,7 @@ $$
 
 > **Fringe pattern **
 
-![fringe image](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\(48)_2kg.JPG)
+![fringe image](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/(48)_2kg.JPG)
 
 
 | Fringe Order | Fringe Location (in px) | Fringe Location (in mm) | Theoritical stress value (MPa) | Experimental stress value (MPa) |
@@ -489,7 +489,7 @@ $$
 
 > **Graph between Stress and Locationof fringes**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\output.svg" alt="graph" style="zoom:120%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/output.svg" alt="graph" style="zoom:120%;" />
 
 ​												*Graph 1. stress values at different fringe locations*
 
@@ -504,7 +504,7 @@ $$
 
 ## 8. Error Analysis
 
-![error table](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\error.PNG)
+![error table](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/error.PNG)
 
 ​																*Table 3. Error in stress values*
 
@@ -512,7 +512,7 @@ $$
 
 > **Error in stress value at different fringe location** 
 
-![error graph](C:\Users\lakhi\Documents\AE451A\Full-field stress analysis using photoelasticity method\errorGraph.svg)
+![error graph](https://github.com/lakhiwal007/AE451A/blob/main/Full-field%20stress%20analysis%20using%20photoelasticity%20method/errorGraph.svg)
 
 ​										*Graph 2. Error in stress values at differnet fringe location*
 
