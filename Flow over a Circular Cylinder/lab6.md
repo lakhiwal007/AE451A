@@ -104,8 +104,8 @@ we can see that there is boundary layer detachment i.e., flow separation due to 
 1. **Calibration Data and Graph**
 
 <div style="display:flex;justify-content:center;">
-    <img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\caliTable.png" alt="caliTable" style="zoom:100%; margin-right:10px;" />
-    <img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\coeffcurve.png" alt="coeff curve" style="zoom:100%;border:2px solid black;" />
+    <img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/caliTable.png" alt="caliTable" style="zoom:100%; margin-right:10px;" />
+    <img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/coeffcurve.png" alt="coeff curve" style="zoom:100%;border:2px solid black;" />
 </div>
 
 $$
@@ -122,7 +122,7 @@ $$ {align*}
 
 2. **Y/d vs U_mean/U and U_rms/U Graph**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\uandyNormalize.png" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/uandyNormalize.png" style="zoom:100%;border:1px solid;" />
 
 <hr>
 
@@ -130,7 +130,7 @@ $$ {align*}
 
 1. **FFT Graph**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\fftt.png" alt="fft image" style="zoom:100%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/fftt.png" alt="fft image" style="zoom:100%;" />
 
 2. **Strouhal no. vs Reynolds no. Table and Graph**
 
@@ -153,7 +153,7 @@ $$
 > | 2.    | 486.0972  | 1.6          | 1.728         | 0.45009           | 700.54054054      |
 > | 3.    | 906.1812  | 1.6          | 2.931         | 0.49467415        | 1188.24324324     |
 
-<img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\StvsRe.png" alt="St vs Re" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/StvsRe.png" alt="St vs Re" style="zoom:100%;border:1px solid;" />
 
 
 
@@ -191,7 +191,7 @@ $$
 
 3. Sketch the ﬂow ﬁeld on a circular cylinder as a function of Reynolds number. Start with the inviscid ﬂow. Comment on drag and other characteristics.
 
-   **Ans.** <img src="C:\Users\lakhi\Documents\AE451A\Flow over a Circular Cylinder\flow.jpg" alt="flow" style="zoom:15%;display:flex;" />
+   **Ans.** <img src="https://github.com/lakhiwal007/AE451A/blob/main/Flow%20over%20a%20Circular%20Cylinder/flow.jpg" alt="flow" style="zoom:15%;display:flex;" />
 
 4. What happens to the shedding frequency when the hot wire probe is moved across the cylinder near wake? Explain.
 
