@@ -66,7 +66,7 @@ The discharge from the power turbine is then exhausted to the atmosphere.
 
 ## 5. Calculation
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\schematic.png" alt="schematic" style="zoom:75%;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/schematic.png" alt="schematic" style="zoom:75%;" />
 
 <div style = "columns:2">
    	<li>Station a - Ambient conditions and fan inlet</li>
@@ -142,19 +142,19 @@ $$
 
 > **Data table**
 
-![data table](C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\data_table.png)
+![data table](https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/data_table.png)
 
 > **Unit Converted Data Table**
 
-![unit cnvrtd data table](C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\unitConverted_data_table.png)
+![unit cnvrtd data table](https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/unitConverted_data_table.png)
 
 ## 7. Results and Discussion
 
-![results table](C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\results_table.png)
+![results table](https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/results_table.png)
 
-<img src="C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\effPlot.png" alt="efficiency plot"  />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/effPlot.png" alt="efficiency plot"  />
 
-![](C:\Users\lakhi\Documents\AE451A\Performance Analysis of a Two-Shaft Gas\phiAndPowerPlot.png)
+![](https://github.com/lakhiwal007/AE451A/blob/main/Performance%20Analysis%20of%20a%20Two-Shaft%20Gas/phiAndPowerPlot.png)
 
 > The following trends we can see as the fuel flow rate increases :
 >
