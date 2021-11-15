@@ -49,7 +49,7 @@ Free turbulence: High-Reynolds-number shear flow in an open ambient  fluid, unco
 Figure1. shows the details of the initial formation of a jet, assuming a still ambient  fluid. The figure is valid only for similar jet and ambient  fluids, e.g., air-into-air, not water-into-air. Velocity profiles are shown as thick dark lines across the flow. Typically the jet issues as a nearly  at, fully developed turbulent velocity $U_{exit}$. Mixing layers format the lip of the exit, growing between the still ambient and the nearly inviscid potential core flowing at velocity $U_{exit}$.
 
 <div style = "text-align:center;">
-    <img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\jet.png" alt="subsonic jet" style="zoom:100%;" />
+    <img src="https://github.com/lakhiwal007/AE451A/blob/main/Subsonic%20Jet%20Propagation/jet.png" alt="subsonic jet" style="zoom:100%;" />
     <figcaption style="font-style:italic;">Figure 1. Initial formation of jet</figcaption>
 </div>
 
@@ -82,7 +82,7 @@ The region where the centre line velocity is equal to the nozzle outlet velocity
 
 ## 5. Experimental Setup
 
-![setup](C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\expSetup.png)
+![setup](https://github.com/lakhiwal007/AE451A/blob/main/Subsonic%20Jet%20Propagation/expSetup.png)
 
 ​										*Figure 2. Schematic diagram of open jet facility*
 
@@ -136,13 +136,13 @@ $$
 
 > **Velocity profile for centerline**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\xbyD vs ubyU0.png" alt="graph" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Subsonic%20Jet%20Propagation/xbyD%20vs%20ubyU0.png" alt="graph" style="zoom:100%;border:1px solid;" />
 
 ​									*Graph 1. centerline velocity profile*
 
 > **Velocity profile at different transverse locations**
 
-<img src="C:\Users\lakhi\Documents\AE451A\Subsonic Jet Propagation\ybyD vs ubuu0.png" alt="graph" style="zoom:100%;border:1px solid;" />
+<img src="https://github.com/lakhiwal007/AE451A/blob/main/Subsonic%20Jet%20Propagation/ybyD%20vs%20ubuu0.png" alt="graph" style="zoom:100%;border:1px solid;" />
 
 ​									*Graph 2. radial direction velocity profile*
 
